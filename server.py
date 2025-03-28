@@ -15,7 +15,7 @@ import tensorflow as tf
 
 # Download NLTK data
 nltk.download("stopwords")
-nltk.download("punkt")
+nltk.download("punkt_tab")
 nltk.download("wordnet")
 
 # Load trained models
